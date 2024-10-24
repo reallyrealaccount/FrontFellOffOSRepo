@@ -1,46 +1,46 @@
 {
     "coreutils": {
         "version": "0.1",
-        "url": "http://118.92.171.79:6969/pkgbuilds/coreutils.tar"
+        "url": "https://github.com/reallyrealaccount/FrontFellOffOSRepo/raw/refs/heads/main/pkgbuilds/coreutils.tar"
     },
     "opkg": {
         "version": "0.1",
-        "url": "http://118.92.171.79:6969/pkgbuilds/opkg.tar",
+        "url": "https://github.com/reallyrealaccount/FrontFellOffOSRepo/raw/refs/heads/main/pkgbuilds/opkg.tar",
         "depends": [
             "libtar"
         ]
     },
     "sh": {
         "verson": "0.1",
-        "url": "http://118.92.171.79:6969/pkgbuilds/sh.tar"
+        "url": "https://github.com/reallyrealaccount/FrontFellOffOSRepo/raw/refs/heads/main/pkgbuilds/sh.tar"
     },
     "init": {
         "version": "0.1",
-        "url": "http://118.92.171.79:6969/pkgbuilds/init.tar"
+        "url": "https://github.com/reallyrealaccount/FrontFellOffOSRepo/raw/refs/heads/main/pkgbuilds/init.tar"
     },
     "boot": {
         "version": "0.1",
-        "url": "http://118.92.171.79:6969/pkgbuilds/boot.tar"
+        "url": "https://github.com/reallyrealaccount/FrontFellOffOSRepo/raw/refs/heads/main/pkgbuilds/boot.tar"
     },
     "kernel": {
         "version": "0.1",
-        "url": "http://118.92.171.79:6969/pkgbuilds/kernel.tar"
+        "url": "https://github.com/reallyrealaccount/FrontFellOffOSRepo/raw/refs/heads/main/pkgbuilds/kernel.tar"
     },
     "libtar": {
         "version": "0.1",
-        "url": "http://118.92.171.79:6969/pkgbuilds/libtar.tar"
+        "url": "https://github.com/reallyrealaccount/FrontFellOffOSRepo/raw/refs/heads/main/pkgbuilds/libtar.tar"
     },
     "curl": {
         "version": "0.1",
-        "url": "http://118.92.171.79:6969/pkgbuilds/curl.tar"
+        "url": "https://github.com/reallyrealaccount/FrontFellOffOSRepo/raw/refs/heads/main/pkgbuilds/curl.tar"
     },
     "cc": {
         "version": "0.1",
-        "url": "http://118.92.171.79:6969/pkgbuilds/cc.tar"
+        "url": "https://github.com/reallyrealaccount/FrontFellOffOSRepo/raw/refs/heads/main/pkgbuilds/cc.tar"
     },
     "untar": {
         "version": "0.1",
-        "url": "http://118.92.171.79:6969/pkgbuilds/untar.tar",
+        "url": "https://github.com/reallyrealaccount/FrontFellOffOSRepo/raw/refs/heads/main/pkgbuilds/untar.tar",
         "depends": [
             "libtar"
         ]
