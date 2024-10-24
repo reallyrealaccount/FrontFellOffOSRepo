@@ -44,5 +44,9 @@
         "depends": [
             "libtar"
         ]
+    },
+    "lua": {
+        "version": "0.1",
+        "url": "https://github.com/reallyrealaccount/FrontFellOffOSRepo/raw/refs/heads/main/pkgbuilds/lua.tar"
     }
 }
