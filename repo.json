@@ -48,9 +48,5 @@
     "lua": {
         "version": "0.1",
         "url": "https://github.com/reallyrealaccount/FrontFellOffOSRepo/raw/refs/heads/main/pkgbuilds/lua.tar"
-    },
-    "libhash": {
-        "version": "0.1",
-        "url": "https://github.com/reallyrealaccount/FrontFellOffOSRepo/raw/refs/heads/main/pkgbuilds/libhash.tar"
     }
 }
